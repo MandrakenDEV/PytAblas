@@ -1,7 +1,0 @@
-echo "Muchas gracias por instalar este programa de codigo abierto :)"
-echo "Hecho en Python 3.10.0 y GNU Nano 5.9 en Termux F-Droid"
-echo "Hecho en version de Android 11"
-echo "Optimizado para celulares, computadoras viejas con incluso Python 2.7!"
-echo "Descubre las tablas de multplicar del 1 al 10."
-echo " Y de la manera mas simple."
-echo "Hecho por MandrakenDEV"
