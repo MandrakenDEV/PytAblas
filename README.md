@@ -4,9 +4,7 @@ PytAblas esta programado en Python y esta hecho solo para Linux!
 Requisitos:
 Python 3
 Debian o Termux
-Una terminal
-Cuando se terminen de descargar las dependencias pon en la terminal: python PytAblas.py
-Y listo!
+Y, una terminal.
 Pasos para descargar:
 Abre el Dependencias.sh y luego de la instalación de las dependencias
 abre PytAblas.py
