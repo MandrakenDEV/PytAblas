@@ -1,1 +1,0 @@
-apt upgrade -y && apt update -y && pkg upgrade -y && pkg upgrade -y && apt-get upgrade -y && apt-get update -y && pkg update python -y && apt install python -y && apt-get install python -y && apt install wget -y && pkg install wget -y && apt-get install wget -y && apt-get install wget -y && apt install wget2 -y && pkg install wget2 -y 
